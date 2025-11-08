@@ -25,10 +25,10 @@ Most of the text is just dummy text to keep the focus on the page elements.
 <iframe width="949" height="707" src="https://www.youtube.com/embed/qEIBmGZxAhg" title="Jimmie Rodgers - Blue Yodel No 1 (T For Texas)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Lyrics
-{% include image:essays/song-5/images/record-blue-yodel.jpeg.png
+{% include figure.html
 class="right" 
 width="48%" 
-caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" 
+caption="Mauris dolor ante, vehicula a turpis at, finibus suscipit mauris. [Source]()" 
 image-path="images/mvh-history-stays.jpg" 
 %}
 
