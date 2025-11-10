@@ -87,34 +87,21 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 
 
 ## About the song
-The song Blue Yodel No. 1 (T for Texas) was copyrighted on February 3rd of 1928 and is part of a multi-part saga known as the Blue Yodels and was recorded during the Bristol sessions which was considered the “Big bang” of country music, about a character named Thelma, the story is told through her past lover who is the narrator and the perspective behind the lyrics,
+The song Blue Yodel No. 1 is about a character named Thelma, the story is told through her past lover who is the narrator and the perspective behind the lyrics,
 
  
 
-Over the course of the song it is established that it takes place in Atlanta, Georgia and the narrator wants to leave and go to a different state out west like Texas or up north to Tennessee as mentioned in the text the narrator is very angry at the two other characters in the song Thelma as previously stated is a past romantic interest of the narrator and the third character is the person who Thelma was currently in a romantic relationship with, from the lyrics we can infer that the narrator plans to purchase a long barreled firearm and murder the man that Thelma is dating and maim and or possibly murder Thelma herself, then escape off to a d the lyrics are unclear if Thelma is cheating or has just moved on to someone new so that could be a reason that the narrator's mother seems to be ready to renounce him along with the rest of Georgia. 
+Over the course of the song it is established that it takes place in Atlanta, Georgia and the narrator wants to leave and go to a different state out west like Texas or up north to Tennessee as mentioned in the text the narrator is very angry at the two other characters in the song Thelma as previously stated is a past romantic interest of the narrator and the third character is the person who Thelma was currently in a romantic relationship with, from the lyrics we can infer that the narrator plans to purchase a long barreled firearm and murder the man that Thelma is dating and maim and or possibly murder Thelma herself, then escape off to and just from the lyrics it is unclear if Thelma is cheating or has just moved on to someone new so that could be a reason that the narrator's mother seems to be ready to renounce him along with the rest of Georgia. 
 
 The words in this song that during the time period would make sense are harder to understand today which decreases the punch of the double entendre that is used throughout the song
 
- 
+ Turpentine is a blend of pine resin and oils that is very very flammable and is toxic if swallowed and if swallowed can be fatal.
 
-Turpentine is a blend of pine resin and oils that is very very flammable and is toxic if swallowed and if swallowed can be fatal.
-
- 
-
-“water drinks like cherry wine” is specifically used as a comparison metaphorically to turpentine and these phrases together are meant to compare locations and declare one better than the other.
-
-
-
+ “water drinks like cherry wine” is specifically used as a comparison metaphorically to turpentine and these phrases together are meant to compare locations and declare one better than the other.
 
 “I'm gonna buy me a pistol just as long as I'm tall” is a way to express his bravado and is an over exaggeration to show that the narrator is not thinking clearly which is supported by deciding to escape to two different states in different directions.
 
-
-
-
 “Rather drink muddy water sleep in a holler log” shows he does not have a plan to get to a different state and is currently in a fit of rage and is unlikely to have any survival skills whatsoever.
-
-producer of the song is Ralph Peer
-During the refrain sections of the song there is yodeling that is the reason the name of the album is “Blue Yodel” was Rodgers unique style of yodeling and popularized American yodeling the way he yodeled was unique at the time and easy to replicate and follow along and became widespread.
 
 
 ## Jimmie Rodgers
@@ -139,7 +126,8 @@ Duis eros odio, fringilla et pulvinar vitae, eleifend quis elit. Sed eleifend le
 
 
 ## Yodeling
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. 
+During the refrain sections of the song there is yodeling that is the reason the name of the album is “Blue Yodel” was Rodgers unique style of yodeling and popularized American yodeling the way he yodeled was unique at the time and easy to replicate and follow along and became widespread.
+
 
 
 Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc nec congue. Curabitur sapien risus, finibus id tincidunt iaculis, porta et ipsum. Cras eu mollis sapien. Sed a mauris finibus orci molestie mollis. Pellentesque dui justo, rhoncus at felis eu, dapibus bibendum sem. Etiam quis mauris nec sem sollicitudin posuere quis in orci. Phasellus ultrices massa nunc, vitae malesuada sapien semper non.
@@ -148,8 +136,7 @@ Praesent sed vehicula velit, vel hendrerit neque. Vivamus scelerisque sed nunc n
 ## History of the song
 {% include figure.html class="right" width="60%" caption="Duis in sagittis arcu. Donec dictum aliquam congue. [Source](https://rmoa.unm.edu/docviewer.php?docId=nmu1unma028.xml)" image-path="images/mvh-floorplan.jpg" %}
 
-Duis ut dui dolor. Integer eu lectus at tellus accumsan euismod eget a ligula. Morbi venenatis, elit eu varius fermentum, ligula est dictum massa, sit amet ullamcorper augue nisl ut nunc. Integer placerat vitae metus vitae faucibus. Pellentesque consectetur augue ac volutpat dignissim. Sed laoreet congue ligula sit amet vestibulum. Duis vehicula erat et diam pharetra iaculis. Etiam rutrum scelerisque nunc, ut interdum justo pellentesque sit amet. Vivamus cursus massa mauris, a finibus felis laoreet quis. Integer vel molestie neque. Quisque in ipsum eget dui mattis efficitur sed in diam. In odio sem, tincidunt non venenatis a, consequat sed ligula.
-
+The song Blue Yodel No. 1 (T for Texas) was copyrighted on February 3rd of 1928 and is part of a multi-part saga known as the Blue Yodels and was recorded during the Bristol sessions which was considered the “Big bang” of country music,the producer of the song is Ralph Peer
 
 ## Romance
 Is Thelma representing something real that happened to Jimmie Rodgers or is she more
