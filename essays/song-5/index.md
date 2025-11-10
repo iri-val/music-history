@@ -167,7 +167,7 @@ Nunc congue ultrices lacus, a efficitur massa pulvinar at. Sed luctus orci sed s
 
    When the world heard the name, Jimmie Rodger's, they thought of resilience, they thought of joy through and through. They thought of the strong hearted man who wrote songs about love and loss. On October 20th, 1957, Jimmie Rodger's song "Honeycomb" was ranked 4th most popular disk jockey in Washington D.C (Evening Star, 1957, Image 107), mind you, this was 24 years after his death. His hits were so popular, that even today, you can find songs of his on Spotify, his listener's count being over 55 thousand people monthly. 
    
- {% include figure.html class="right" width="60%" caption="Jimmie Rodgers on Spotify" image-path="essays/song-5/images/image.png" %}
+ {% include figure.html class="right" width="60%" caption="Jimmie Rodgers on Spotify" image-path=essays/song-5/images/image.png %}
 
    Looking at Spotify still, we can see that out of all of Jimmie Rodgers albums, Honeycomb is not second, the first spot being taken over by Kisses Sweet than Wine, written by Campbell and Ray Gilbert! Although he isn't a top hit today, the fact that his songs are still relevant to this day is absolutely stunning! 
 
