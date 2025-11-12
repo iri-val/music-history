@@ -5,7 +5,7 @@ author: Student Name
 layout: base
 date: 2025-10-21
 thumbnail: images/jimmie-rodgers-in-1921.jpg
-summary: Write the summary of your webpage here
+summary: Learn about Blue Yodel No 1 And Jimmie Rodgers
 header-image: images/record-blue-yodel.jpeg.jpg
 header-title: 
 header-position: 0px
@@ -83,13 +83,17 @@ Oh-del-lay-ee eh, lay-ee oh, lay-ee
 ## About the song
 The song Blue Yodel No. 1 is about a character named Thelma, the story is told through her past lover who is the narrator and the perspective behind the lyrics (Atkins, John. 2010.)
 
-  Over the course of the song it is established that it takes place in Atlanta, Georgia and the narrator wants to leave and go to a different state out west like Texas or up north to Tennessee as mentioned in the text the narrator is very angry at the two other characters in the song Thelma as previously stated is a past romantic interest of the narrator and the third character is the person who Thelma was currently in a romantic relationship with, from the lyrics we can infer that the narrator plans to purchase a long barreled firearm and murder the man that Thelma is dating and maim and or possibly murder Thelma herself, then escape off to and just from the lyrics it is unclear if Thelma is cheating or has just moved on to someone new so that could be a reason that the narrator's mother seems to be ready to renounce him along with the rest of Georgia. 
+  Over the course of the song it is established that it takes place in Atlanta, Georgia and the narrator wants to leave and go to a different state out west like Texas or up north to Tennessee.
+  
+In the text the narrator is very angry at the two other characters in the song Thelma as previously stated is a past romantic interest of the narrator and the third character is the person who Thelma was currently in a romantic relationship with.
+
+From the lyrics we can infer that the narrator plans to purchase a long barreled firearm and murder the man that Thelma is dating and maim and or possibly murder Thelma herself, then escape off to and just from the lyrics it is unclear if Thelma is cheating or has just moved on to someone new so that could be a reason that the narrator's mother seems to be ready to renounce him along with the rest of Georgia. 
 
 The words in this song that during the time period would make sense are harder to understand today which decreases the punch of the double entendre that is used throughout the song
 
- Turpentine is a blend of pine resin and oils that is very very flammable and is toxic if swallowed and if swallowed can be fatal.
+Turpentine is a blend of pine resin and oils that is very very flammable and is toxic if swallowed and if swallowed can be fatal.
 
- “water drinks like cherry wine” is specifically used as a comparison metaphorically to turpentine and these phrases together are meant to compare locations and declare one better than the other.
+“water drinks like cherry wine” is specifically used as a comparison metaphorically to turpentine and these phrases together are meant to compare locations and declare one better than the other.
 
 “I'm gonna buy me a pistol just as long as I'm tall” is a way to express his bravado and is an over exaggeration to show that the narrator is not thinking clearly which is supported by deciding to escape to two different states in different directions.
 
@@ -101,10 +105,9 @@ The words in this song that during the time period would make sense are harder t
 
 
 
-## Jimmie Rodgers
+## Who is Jimmie Rodgers
 {% include figure.html class="middle" width="60%" caption="" image-path="images/jimmie-rodgers-in-1921.jpg" %}
 
-  "Who is Jimme Rodgers"
 
  James Charles Rodgers, or also known as Jimmie Rodgers was a famous country and blues singer, as well as being the popular singer of the song T for Texas. He was born in 1897 in Meridian, Mississippi, he stayed there up until the death of his mother four years later. Jimmie Rodger's Father was left alone with a child as he worked as a foreman, because of his father's work, Jimmie Rodgers got exposed to the very thing that would make him famous!
 
@@ -126,15 +129,20 @@ In 1931, there was a drought that affected him greatly. It started with a few co
 You may be wondering what is with the yodel Jimmie Rodgers performs between the stanzas of
 his songs, this was a defining piece of his work. We have to first understand where this yodeling
 came from, the yodeling heard in his songs originates from slaves vocalizing the similar yodels
-on and off the plantation during their capture (Scarborough and Gulledge, 1925, 226). This
-unique type of yodeling is what Jimmie Rodgers incorporated into his songs and was known as
+on and off the plantation during their capture (Scarborough and Gulledge, 1925, 226).
+
+This unique type of yodeling is what Jimmie Rodgers incorporated into his songs and was known as
 a “blues yodel”, but since he was a country singer, the blend of these genres made him famous
-and a pioneer of the new subgenre. It had now become his trademark; you could hear his yodel
+and a pioneer of the new subgenre.
+
+It had now become his trademark; you could hear his yodel
 in nearly every one of his songs (Wise 2010, 6-12, 33-39). In his songs it's used to transition
 from stanza to stanza to keep the rhythm of the song going while adding emotional weight each
 time he performed it, but people didn’t just see this as a means of transitioning in the song but
 rather the main signature of the artist and what gave the song character (Seward Daily Gateway
-1928). Jimmie Rodgers’ songs are particularly unique because of this element and some could
+1928). 
+
+Jimmie Rodgers’ songs are particularly unique because of this element and some could
 argue he was as big as he was because of how unrepeatable and unique he made his songs
 with this new aspect he assimilated within country music. Though we may not hear this style as
 much today, Jimmie Rodgers’ yodel revolutionized country music and has left a lasting effect on
